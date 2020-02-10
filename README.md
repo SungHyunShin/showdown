@@ -1,4 +1,4 @@
-# Showdown  ![umbreon](https://play.pokemonshowdown.com/sprites/xyani/umbreon.gif)
+# Showdown  ![mewthree](https://vignette.wikia.nocookie.net/pokemon/images/3/3b/Mewthree_manga.png/revision/latest?cb=20130407033659)
 Showdown is a Pokémon battle-bot that can play battles on [Pokemon Showdown](https://pokemonshowdown.com/).
 
 This project is forked from https://github.com/pmariglia/showdown.
